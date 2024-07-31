@@ -4,6 +4,6 @@
 
 ### teste 3
 
-´´´´json
+````json
 { "teste" : "valor" }
-´´´´
+````
